@@ -1,0 +1,34 @@
+page-dashboard {
+
+    .dashboard-page{
+        background-image: url(../assets/imgs/blur.jpg)
+    }
+    p{
+        color: #f9f9f9;
+    }    
+
+    .dbnav{
+        color: chocolate;
+    }
+    .row{
+        margin-top: 40px;
+    }
+    h2{
+        margin-top: 11px;
+    }
+    p{
+        margin-top: 19px;
+    }
+    ion-icon{
+        color: #35130C;
+
+    }
+    ion-title{
+        text-align: center;
+        color: #35130C;
+    }
+    .toolbar-title-md {
+        color: #ffffff;
+        font-weight: 100 !important;
+    }
+}

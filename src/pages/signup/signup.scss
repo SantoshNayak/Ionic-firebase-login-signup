@@ -1,0 +1,54 @@
+page-signup 
+{
+    .signup-page{background-image: url(../assets/imgs/blur.jpg)}
+
+    p{
+        color: aliceblue;
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+    .hi{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+        margin-top:30px;
+    }
+    .signup-box{
+        margin-top: 40px;
+    }
+    .input-wrapper{
+      height: 55px;
+    }
+    // .col{
+    //   margin-left: -10px;
+    // }
+
+    .item-md{
+      background-color: rgba(0, 0, 0, 0);
+      
+      //#fff0;
+    }
+
+    .text-input::-moz-placeholder {
+      color: #2C1915;
+    }
+    
+    .text-input:-ms-input-placeholder {
+      color: #2C1915;
+    }
+    
+    .text-input::-webkit-input-placeholder {
+      text-indent: 0;
+      color: #2C1915;
+    }
+    ion-icon{
+      color: #2C1915;
+    }
+    .validation{
+     
+      font-size: 30px;
+    }
+   
+}
